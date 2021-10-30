@@ -1,5 +1,6 @@
 # AutoCode
 Some random program that allows you to create code (Like Scratch bassicly, but with no UI) and the code will be "written" in Python.
+Feel free to submit a PR (Pull Request) and contribute!
 
 ## How it Works
 So bassicly, it will have a bunch of options and you will need to pick and choose. And as you choose code will be edited in a Python file with the project's name. 
